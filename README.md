@@ -13,9 +13,9 @@
     
 ### 2. Process the Data to be inserted into the model. Do some Visulization and figure out the outliers ways to do so is:
 
-    a. Create histogram on the basis of number of Characters and words. Figure out how to truncate data and how much to truncate data.
-    b. Remove the most used words that are mostly common.
-    c. Figure out the distribution of dataset.
+    a. Create a histogram on the basis of the number of Characters and words. Figure out how to truncate data and how much to truncate data.
+    b. Remove the most used words that are most common.
+    c. Figure out the distribution of the dataset.
     d. Use the above information to find the sequence length.
 
 ### 3. Create the Model :
