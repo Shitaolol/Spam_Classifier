@@ -20,7 +20,7 @@
 
 ### 3. Create the Model :
 
-    a. In this we have use an attention model.
+    a. In this we have used an attention model.
     b. Used Sparce Cross entropy loss.
 #### What is Attention ? 
         In psychology, attention is the cognitive process of selectively concentrating on one or a few things while ignoring others.
