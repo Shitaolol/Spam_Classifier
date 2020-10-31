@@ -1,6 +1,6 @@
 # Spam_Classifier
 ## Creating a Spam Classifier Using Attention Model
-###The Keys Points are : 
+##The Keys Points are : 
 1. Data Processing: Clean the dataset using the Spacy Library. Cleaning includes:
     a. Remove all the stop words.
     b. Remove the Puntuations.
