@@ -6,9 +6,9 @@
 ### 1. Data Processing: Clean the dataset using the Spacy Library. Cleaning includes:
 
     a. Remove all the stop words.
-    b. Remove the Puntuations.
-    c. Remove the non Ascii Characters.
-    d. Lemmitization of words.
+    b. Remove the Punctuations.
+    c. Remove the non-Ascii Characters.
+    d. Lemmatization of words.
     e. Remove all single Character words like 'A','b','c' (that are not providing any meaning to the data).
     
 ### 2. Process the Data to be inserted into the model. Do some Visulization and figure out the outliers ways to do so is:
